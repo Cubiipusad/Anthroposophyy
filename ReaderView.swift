@@ -48,7 +48,7 @@ struct LectureDetailView: View {
                         Button {
                             let newNote = Note(
                                 lectureID: lecture.id,
-                                content: "New note",
+                                content: "New Note",
                                 title: "Untitled"
                             )
                             context.insert(newNote)
