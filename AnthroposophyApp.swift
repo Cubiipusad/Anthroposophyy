@@ -4,6 +4,8 @@
 //
 //  Created by Quinlan George Wingfield on 01/01/2026.
 //
+// Glurgista
+//
 
 import SwiftUI
 
